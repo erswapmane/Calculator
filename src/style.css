@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif; 
-  background-image: url(/public/back.jpg);
+  background-image: url(/back.jpg);
   background-size: cover;
 }
 h1{
