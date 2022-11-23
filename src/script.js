@@ -2,6 +2,7 @@ let string = "";
 let buttons = document.querySelectorAll('.button');
 Array.from(buttons).forEach((button) => {
   button.addEventListener('click', (e) => {
+    
     if (e.target.innerHTML == '=') {
       string = eval(string);
       document.querySelector('input').value = string;
@@ -17,4 +18,3 @@ Array.from(buttons).forEach((button) => {
     }
   })
 })
-comsole.log("This Calculator Cannot work with Keyboard inputs and Keyboard Arithimatic operators kindly use screen touches or use mouse for entries!")
