@@ -3,7 +3,8 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif; 
- background-color:lightsalmon
+ background-image: url(/public/logo.ico);
+ background-size: cover;
 }
 h1{
     color: #fff;
