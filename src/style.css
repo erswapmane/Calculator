@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif; 
- background-image: url(/public/logo.ico);
+ background-image: url(/back.jpg);
  background-size: cover;
 }
 h1{
@@ -37,5 +37,6 @@ h1{
     color: #fff;
     background-color: darkorange;
     box-shadow: -2px -2px 2px yellow;
+    font-weight: bold;
 
 }
