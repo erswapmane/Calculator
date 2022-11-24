@@ -1,5 +1,6 @@
 let string = "";
 let buttons = document.querySelectorAll('.button');
+console.error("This Calculator Cannot be used to Read Your keyboard values instead use the given buttons with mouse or touch screen devices !")
 Array.from(buttons).forEach((button) => {
   button.addEventListener('click', (e) => {
     
