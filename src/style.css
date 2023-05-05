@@ -63,7 +63,7 @@ h1{
 .items-center{
   align-items: center;
 }
-.page{
+body{
   /* background-image:url(/back.jpg) ; */
   background-color:rgb(200, 255, 3);
   background-size: cover;
