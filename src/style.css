@@ -33,7 +33,7 @@ h1{
   font-size: 20px;
     margin: 0;
     padding: 10px 20px;
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     border-radius:20px;
 }
 .button:hover{
@@ -64,6 +64,7 @@ h1{
   align-items: center;
 }
 .page{
-  background-image:url(/back.jpg) ;
+  /* background-image:url(/back.jpg) ; */
+  background-color:rgb(200, 255, 3);
   background-size: cover;
 }
