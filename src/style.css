@@ -64,6 +64,6 @@ h1{
   align-items: center;
 }
 .page{
-  background-image:url(/back.jpg) ;
+  background-image:url(/public/back.jpg) ;
   background-size: cover;
 }
